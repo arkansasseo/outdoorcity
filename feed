@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Outdoor City</title>
+	<atom:link href="https://arkansasseo.github.io/outdoorcity/feed" rel="self" type="application/rss+xml" />
+	<link>https://arkansasseo.github.io/outdoorcity</link>
+	<description>Add Meta Description Here</description>
+	<lastBuildDate>Sunday, 02 May 2021 11:21:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>Thoughts On Bug Out Bags</title>
+		<link>https://arkansasseo.github.io/outdoorcity/Survivalist/Thoughts-On-Bug-Out-Bags.html</link>
+		<pubDate>Sunday, 02 May 2021 11:21:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[Survivalist]]></category>
+		<guid isPermaLink="false">https://arkansasseo.github.io/outdoorcity/Survivalist/Thoughts-On-Bug-Out-Bags.html</guid> 
+		<description><![CDATA[Thoughts On Bug Out Bags
+by
+Jerry Mac
+Posted on 02-05-2021 11:21 AM
+&amp;nbsp; 
+ 
+ 
+ 
+ 
+ 
+ Preppers, hikers, campers and other folks of an outdoor persuasion are constantly fussing over their backpacks There is no chore too boring, no job too big, and no task too great for folks who rely on their packs to get them through the day, and they will stop at nothing for any improvement, for any enhancement or any advantageThis is all entirely reasonable, as the backpack is essential for any outdoor activity more demanding than a pleasurable stroll across the prairie
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
